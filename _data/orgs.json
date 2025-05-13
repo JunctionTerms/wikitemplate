@@ -413,8 +413,8 @@
     "flakes",
     "jsonix",
     "lanyon",
-    "wiki",
     "sitemap",
+    "wiki",
     "wikitemplate"
   ]
 }
